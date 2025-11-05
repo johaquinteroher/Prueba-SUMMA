@@ -1,16 +1,16 @@
 ```mermaid
 graph TD
-    subgraph Ambito de Ejecución del Agente (Runtime)
+    subgraph "Ámbito de Ejecución del Agente (Runtime)"
         A[1. Agente Orquestador (main.py)] --> B[2. Modelo de Lenguaje (LLM)];
         A --> C[3. Módulo de Herramientas (Tools)];
     end
 
-    subgraph Modulo de Herramientas
+    subgraph "Módulo de Herramientas"
         C --> D(Función: get_severance_pay_info);
         C --> E(Función: get_PTO_balance);
     end
 
-    subgraph Recursos Externos
+    subgraph "Recursos Externos"
         F[4. Capa de Datos]
     end
 
