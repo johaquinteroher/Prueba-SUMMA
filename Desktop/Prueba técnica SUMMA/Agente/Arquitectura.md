@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     % Definición de componentes y flujo de alto nivel
     subgraph Ambito de Ejecución del Agente (Runtime)
@@ -27,3 +28,4 @@ graph TD
     style E fill:#FFD700,stroke:#FFA500,stroke-width:2px
     style F fill:#DDA0DD,stroke:#9932CC,stroke-width:2px
     style User fill:#FFB6C1,stroke:#FF69B4,stroke-width:2px
+    ```
