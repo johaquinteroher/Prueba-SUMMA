@@ -1,0 +1,4 @@
+SeniorCity,Partner,Dependents,Service1,Service2,Security,OnlineBackup,DeviceProtection,TechSupport,Contract,PaperlessBilling,PaymentMethod,Charges,Demand,Probabilidad_Alpha,Class,Umbral_Usado
+0,No,No,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,96.05,1134.03,0.0927,Betha,0.2294
+0,No,No,Yes,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,53.45,1264.83,0.9174,Alpha,0.2294
+0,No,No,Yes,No,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.7,1548.26,0.9898,Alpha,0.2294
