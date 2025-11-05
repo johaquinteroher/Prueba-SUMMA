@@ -1,6 +1,5 @@
 ```mermaid
 graph TD
-    % Definición de componentes y flujo de alto nivel
     subgraph Ambito de Ejecución del Agente (Runtime)
         A[1. Agente Orquestador (main.py)] --> B[2. Modelo de Lenguaje (LLM)];
         A --> C[3. Módulo de Herramientas (Tools)];
